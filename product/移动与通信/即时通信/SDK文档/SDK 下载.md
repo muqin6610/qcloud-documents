@@ -28,7 +28,7 @@
 		<td align="center"><a href="https://cloud.tencent.com/document/product/269/37060">DOC</a></td>
 		<td align="center"><a href="https://cloud.tencent.com/document/product/269/32675">DOC</a></td>
 	</tr> 
-	<tr>      
+	<tr>      五千万
 		<td align="center">Mac</td>
 		<td align="center"><a onclick="MtaH5.clickStat('sdkDownload',{'platform':'mac'})" href="https://github-1252463788.cos.ap-shanghai.myqcloud.com/imsdk/TIMSDK.zip">ZIP</a></td>
 		<td align="center"><a onclick="MtaH5.clickStat('sdkgithub',{'platform':'mac'})" href="https://github.com/tencentyun/TIMSDK/">Github</a></td>
